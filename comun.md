@@ -3,7 +3,7 @@
 # carmen
 # carmencita
 
-# san jose
+# jose
 
 
 # maria
